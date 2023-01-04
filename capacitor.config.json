@@ -1,0 +1,6 @@
+{
+	"appId": "com.alierensevinc.freeepicgames",
+	"appName": "Epic-Free-Games",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
